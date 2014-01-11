@@ -25,7 +25,7 @@ def scrape():
   pandora_connection = pandora.make_pandora()
 
   # email = raw_input("Email Address: ")
-  email = 'zabu.other@gmail.com'
+  email = 'runninggee57@gmail.com'
 
   loggedin = False
   while not loggedin:

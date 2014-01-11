@@ -3,7 +3,7 @@ import getpass
 import urllib2
 import os
 import time
-import eyeD3
+import eyed3
 import sys
 import random
 import commands
